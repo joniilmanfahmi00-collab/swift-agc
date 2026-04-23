@@ -1,0 +1,14 @@
+{
+    "site_name": "slothoki003tkw.online",
+    "meta_description": "Temukan informasi terlengkap dan terupdate mengenai spesifikasi teknis, fitur unggulan, dan panduan mendalam hanya di slothoki003tkw.online. Sumber terpercaya untuk artikel teknis berkualitas.",
+    "author": "Aa Ilman",
+    "db_name": "data/database_agc.sqlite",
+    "output_dir": "public",
+    "api_keys": {
+        "groq": "YOUR_GROQ_API_KEY_HERE",
+        "pexels": "YOUR_PEXELS_API_KEY_HERE",
+        "gemini": "YOUR_GEMINI_API_KEY_HERE",
+        "qwen":"YOUR_QWEN_API_KEY_HERE"
+    },
+    "rag_prompt": "Buatkan artikel dari {keyword} minimal 700 kata dengan bahasa indonesia dan sub h1, h2, h3 numbering dan point yang jelas. Gunakan format HTML untuk outputnya. Jangan sertakan tag body atau head, cukup konten artikelnya saja. Dan tambahkan CTA ke link ini: https://omg10.com/4/8605406"
+}
