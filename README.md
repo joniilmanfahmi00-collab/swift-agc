@@ -106,4 +106,4 @@ Swift AGC is an open-source project. Contributions are welcome! If you have any 
 This project is intended for personal use only. It is not allowed to resell or distribute the software without proper authorization. If you wish to use this project for commercial purposes, please contact the developer for licensing options.
 
 ## License
-This project is licensed under the GNU License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
