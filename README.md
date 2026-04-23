@@ -69,10 +69,6 @@ The primary purpose of Swift AGC is to help content creators, marketers, and web
    ```
    The site will be available at `http://localhost:8080`.
 
-   docker-compose up -d
-   ```
-   The site will be available at `http://localhost:8080`.
-
 ## Deployment Guide (Production/VPS)
 
 To deploy Swift AGC to a live server, follow these best practices:
@@ -98,6 +94,8 @@ To deploy Swift AGC to a live server, follow these best practices:
    python3 swift.py --duckduckgo --gemini_agents --threads 5
    ```
    *Press `Ctrl+B` then `D` to detach from the session.*
+
+*Deploy can be with free hosting provider like Infinityfree, Epizy, Railway, Fly.io, Render and anything like that*
 
 ## Contributing
 Swift AGC is an open-source project. Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request or open an issue on the GitHub repository.
