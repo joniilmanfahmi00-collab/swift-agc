@@ -44,7 +44,7 @@ The primary purpose of Swift AGC is to help content creators, marketers, and web
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/your-username/swift.git>
+   git clone https://github.com/joniilmanfahmi00-collab/swift-agc
    cd swift
    ```
 2. **Install Python Dependencies**:
